@@ -37,4 +37,4 @@ fonttools>=4.43.0
 werkzeug>=2.3.8
 imagesize~=1.4.1
 jedi>=0.16
-onnxscript>=0.3.0
+onnxscript>=0.1.0
